@@ -22,7 +22,7 @@
 |Age | 수명 (단위: 1년) |
 |Group | 내시(Eunuch), 왕자(Prince), 양반가(K, N, O) |
 
-참조: 
+참고: 
 - Min KJ, Lee CK, Park HN (2012) The lifespan of Korean eunuchs. Current Biology 22: R792–R793.
 - https://doi.org/10.1016/j.cub.2012.06.036
 - 교양통계 수업 자료로 기증해주신 인하대학교 민경진 교수님께 감사드립니다.
