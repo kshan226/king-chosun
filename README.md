@@ -1,13 +1,13 @@
-# 조선시대 임금 
+# king.csv 
 
-king.csv 데이터에서 흥미로운 질문들이다.
+조선시대 임금 데이터에 대한 흥미로운 질문들이다.
 
 - 수명의 길고 짧음을 다른 변수로 의미 있게 설명할 수 있는가?
 - 수명과 출생 연도는 관련이 있는가?  
 - 자녀가 없는 임금의 비율은?
 - 수명이 길어질수록 부인 수가 증가하는 경향이 있는가? 
 
-참고
+참고:
 - 동의보감은 허준이 14년간의 노력 끝에 1610년에 저술한 종합의서이다. 내경(內景), 외형(外形), 잡병(雜病), 탕액(湯液), 침구(鍼灸) 등 다섯 편으로 구성되어 있다.
 
 # lifespan.csv 
@@ -23,7 +23,6 @@ king.csv 데이터에서 흥미로운 질문들이다.
 |Group | 내시(Eunuch), 왕자(Prince), 양반가(K, N, O) |
 
 참조: 
-Min KJ, Lee CK, Park HN (2012) The lifespan of Korean eunuchs. Current Biology 22: R792–R793.
-https://doi.org/10.1016/j.cub.2012.06.036
-
-교양통계 수업 자료로 기증해주신 인하대학교 민경진 교수님께 감사드립니다.
+- Min KJ, Lee CK, Park HN (2012) The lifespan of Korean eunuchs. Current Biology 22: R792–R793.
+- https://doi.org/10.1016/j.cub.2012.06.036
+- 교양통계 수업 자료로 기증해주신 인하대학교 민경진 교수님께 감사드립니다.
