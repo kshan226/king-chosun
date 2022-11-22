@@ -1,4 +1,8 @@
-# josun.csv 
+# king_korea.csv
+
+고려 시대 임금 데이터
+
+# king_josun.csv 
 
 조선시대 임금 데이터에 대한 흥미로운 질문들이다.
 
